@@ -1,2 +1,7 @@
-# web
-a noob learning to build a web,all manual,no ai
+# 鑫空回响
+
+微信公众号推文预览页，基于秀米公开音乐会模板适配。
+
+- 模板来源：https://b.xiumius.cn/board/v5/3FOLa/631106866
+- 预览：GitHub Pages 首页
+- 活动图片当前为占位图，发布前请替换为正式海报或现场图。
